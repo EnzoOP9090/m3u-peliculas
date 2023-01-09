@@ -1,2 +1,4 @@
-EXTINF:0 tvg-id=»Shrek» tvg-logo=»https://es.web.img3.acsta.net/pictures/14/03/06/10/13/369709.jpg» group-title=»Animacion Cine»,Shrek
+#EXTM3U
+
+#EXTINF:0 tvg-id=»Shrek» tvg-logo=»https://es.web.img3.acsta.net/pictures/14/03/06/10/13/369709.jpg» group-title=»Animacion Cine»,Shrek
 https://googledrive.enzoop024.workers.dev/0:/Peliculas/Shrek%20(2001).mkv
