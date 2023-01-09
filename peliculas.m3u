@@ -1,4 +1,4 @@
 #EXTM3U
 
-#EXTINF:0 tvg-id=»Shrek» tvg-logo=»https://assets.stickpng.com/images/59f877cd3cec115efb362383.png» group-title=»Animacion Cine»,Shrek
+#EXTINF:0 tvg-id=Shrek tvg-logo=https://assets.stickpng.com/images/59f877cd3cec115efb362383.png group-title=»Animacion Cine»,Shrek
 https://googledrive.enzoop024.workers.dev/0:/Peliculas/Shrek%20(2001).mkv
